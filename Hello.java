@@ -5,5 +5,6 @@ public class Hello {
 	System.out.println("这是第二次修改！");
 	System.out.println("这是登录功能！");
 	System.out.println("这是远程仓库更新测试！");
+	System.out.println("这是fetch测试！");
     }
 }
